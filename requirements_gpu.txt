@@ -1,0 +1,13 @@
+matplotlib
+numpy
+keras
+pandas
+jupyter
+tensorflow-gpu
+pillow
+scikit-learn
+seaborn
+statsmodels
+requests
+tqdm
+jupyter-tensorboard
